@@ -59,6 +59,10 @@ def policy_iteration(P, gamma=1.0, theta=1e-10):
 ![image](https://github.com/SaiDarshan2003/policy-iteration-algorithm/assets/94692595/84487d56-0268-4c9f-bd54-a7554f377dcb)
 
 
+![image](https://github.com/SaiDarshan2003/policy-iteration-algorithm/assets/94692595/bbd6d21e-264a-417e-93a8-54228dc1f0ef)
+
+
+
 ![image](https://github.com/SaiDarshan2003/policy-iteration-algorithm/assets/94692595/aa0172fe-80ae-4a0f-9610-4e0a7ee3a93a)
 
 
